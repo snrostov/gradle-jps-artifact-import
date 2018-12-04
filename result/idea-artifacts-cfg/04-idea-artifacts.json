@@ -1,0 +1,2555 @@
+{
+  "children": {
+    "jvm-minimal-for-test.jar": {
+      "children": {
+        ":kotlin-stdlib:jvm-minimal-for-test": {
+          "children": {},
+          "type": "MODULE_OUTPUT",
+          "name": ":kotlin-stdlib:jvm-minimal-for-test"
+        }
+      },
+      "type": "ARCHIVE",
+      "name": "jvm-minimal-for-test.jar"
+    },
+    "kotlin-stdlib-jre7.jar": {
+      "children": {
+        ":kotlin-stdlib-jre7": {
+          "children": {},
+          "type": "MODULE_OUTPUT",
+          "name": ":kotlin-stdlib-jre7"
+        }
+      },
+      "type": "ARCHIVE",
+      "name": "kotlin-stdlib-jre7.jar"
+    },
+    "kotlin-stdlib-jre8.jar": {
+      "children": {
+        ":kotlin-stdlib-jre8": {
+          "children": {},
+          "type": "MODULE_OUTPUT",
+          "name": ":kotlin-stdlib-jre8"
+        }
+      },
+      "type": "ARCHIVE",
+      "name": "kotlin-stdlib-jre8.jar"
+    },
+    "artifacts": {
+      "children": {
+        "ideaPlugin": {
+          "children": {
+            "Kotlin": {
+              "children": {
+                "lib": {
+                  "children": {
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang/2.0.6/415b0d40db4890849270c2a5cb50050fc6ee7636/javaslang-2.0.6.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang/2.0.6/415b0d40db4890849270c2a5cb50050fc6ee7636/javaslang-2.0.6.jar"
+                    },
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+                    },
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar"
+                    },
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-jdk8/1.0.1/ee52dcd51dbdd3f94271cab32c76ce820adfe024/kotlinx-coroutines-jdk8-1.0.1.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-jdk8/1.0.1/ee52dcd51dbdd3f94271cab32c76ce820adfe024/kotlinx-coroutines-jdk8-1.0.1.jar"
+                    },
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains/markdown/0.1.25/f22b57c632b83433112102c9da9a0f8edf946091/markdown-0.1.25.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains/markdown/0.1.25/f22b57c632b83433112102c9da9a0f8edf946091/markdown-0.1.25.jar"
+                    },
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20-dev-1708/26037c26b650d76df4d55f5f58a2bbfdac6ae2f4/kotlin-stdlib-1.3.20-dev-1708.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.20-dev-1708/26037c26b650d76df4d55f5f58a2bbfdac6ae2f4/kotlin-stdlib-1.3.20-dev-1708.jar"
+                    },
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/16.0.3/62c7299ced2a089cc541726c6d763da9417604a0/annotations-16.0.3.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/16.0.3/62c7299ced2a089cc541726c6d763da9417604a0/annotations-16.0.3.jar"
+                    },
+                    "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang-match/2.0.6/d57a666939103b659813de52102d3ff0baa8ad5f/javaslang-match-2.0.6.jar": {
+                      "children": {},
+                      "type": "FILE",
+                      "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang-match/2.0.6/d57a666939103b659813de52102d3ff0baa8ad5f/javaslang-match-2.0.6.jar"
+                    },
+                    "allopen-ide-plugin.jar": {
+                      "children": {
+                        ":allopen-ide-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":allopen-ide-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "allopen-ide-plugin.jar"
+                    },
+                    "android-lint.jar": {
+                      "children": {
+                        ":plugins:lint": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":plugins:lint"
+                        },
+                        ":plugins:uast-kotlin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":plugins:uast-kotlin"
+                        },
+                        ":plugins:uast-kotlin-idea": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":plugins:uast-kotlin-idea"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "android-lint.jar"
+                    },
+                    "android-ide.jar": {
+                      "children": {
+                        ":idea:idea-android": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-android"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "android-ide.jar"
+                    },
+                    "android-output-parser-ide.jar": {
+                      "children": {
+                        ":idea:idea-android-output-parser": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-android-output-parser"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "android-output-parser-ide.jar"
+                    },
+                    "idea-git.jar": {
+                      "children": {
+                        ":idea:idea-git": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-git"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "idea-git.jar"
+                    },
+                    "jps-common-ide.jar": {
+                      "children": {
+                        ":idea:idea-jps-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-jps-common"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "jps-common-ide.jar"
+                    },
+                    "jvm-ide.jar": {
+                      "children": {
+                        ":idea:idea-jvm": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-jvm"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "jvm-ide.jar"
+                    },
+                    "maven-ide.jar": {
+                      "children": {
+                        ":idea:idea-maven": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-maven"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "maven-ide.jar"
+                    },
+                    "kotlin-gradle-tooling.jar": {
+                      "children": {
+                        ":idea:kotlin-gradle-tooling": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:kotlin-gradle-tooling"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-gradle-tooling.jar"
+                    },
+                    "j2k.jar": {
+                      "children": {
+                        ":j2k": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":j2k"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "j2k.jar"
+                    },
+                    "kotlin-allopen-compiler-plugin.jar": {
+                      "children": {
+                        ":kotlin-allopen-compiler-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-allopen-compiler-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-allopen-compiler-plugin.jar"
+                    },
+                    "kotlin-daemon-client.jar": {
+                      "children": {
+                        ":kotlin-daemon-client": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-daemon-client"
+                        },
+                        ":compiler:daemon-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:daemon-common"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-daemon-client.jar"
+                    },
+                    "kotlin-noarg-compiler-plugin.jar": {
+                      "children": {
+                        ":kotlin-noarg-compiler-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-noarg-compiler-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-noarg-compiler-plugin.jar"
+                    },
+                    "kotlin-sam-with-receiver-compiler-plugin.jar": {
+                      "children": {
+                        ":kotlin-sam-with-receiver-compiler-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-sam-with-receiver-compiler-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-sam-with-receiver-compiler-plugin.jar"
+                    },
+                    "kotlin-script-util.jar": {
+                      "children": {
+                        ":kotlin-script-util": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-script-util"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-script-util.jar"
+                    },
+                    "kotlin-scripting-common.jar": {
+                      "children": {
+                        ":kotlin-scripting-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-scripting-common"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-scripting-common.jar"
+                    },
+                    "kotlin-scripting-common-sources.jar": {
+                      "children": {
+                        "/Users/jetbrains/tasks/kwjps/wjps/libraries/scripting/common/src": {
+                          "children": {},
+                          "type": "DIR_CONTENT",
+                          "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/scripting/common/src"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-scripting-common-sources.jar"
+                    },
+                    "kotlin-scripting-compiler.jar": {
+                      "children": {
+                        ":kotlin-scripting-compiler": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-scripting-compiler"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-scripting-compiler.jar"
+                    },
+                    "kotlin-scripting-idea.jar": {
+                      "children": {
+                        ":kotlin-scripting-idea": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-scripting-idea"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-scripting-idea.jar"
+                    },
+                    "kotlin-scripting-intellij.jar": {
+                      "children": {
+                        ":kotlin-scripting-intellij": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-scripting-intellij"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-scripting-intellij.jar"
+                    },
+                    "kotlin-scripting-jvm.jar": {
+                      "children": {
+                        ":kotlin-scripting-jvm": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-scripting-jvm"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-scripting-jvm.jar"
+                    },
+                    "kotlin-scripting-jvm-sources.jar": {
+                      "children": {
+                        "/Users/jetbrains/tasks/kwjps/wjps/libraries/scripting/jvm/src": {
+                          "children": {},
+                          "type": "DIR_CONTENT",
+                          "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/scripting/jvm/src"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-scripting-jvm-sources.jar"
+                    },
+                    "kotlinx-serialization-compiler-plugin.jar": {
+                      "children": {
+                        ":kotlinx-serialization-compiler-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlinx-serialization-compiler-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlinx-serialization-compiler-plugin.jar"
+                    },
+                    "kotlinx-serialization-ide-plugin.jar": {
+                      "children": {
+                        ":kotlinx-serialization-ide-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlinx-serialization-ide-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlinx-serialization-ide-plugin.jar"
+                    },
+                    "noarg-ide-plugin.jar": {
+                      "children": {
+                        ":noarg-ide-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":noarg-ide-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "noarg-ide-plugin.jar"
+                    },
+                    "android-extensions-compiler.jar": {
+                      "children": {
+                        ":plugins:android-extensions-compiler": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":plugins:android-extensions-compiler"
+                        },
+                        ":kotlin-android-extensions-runtime": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-android-extensions-runtime"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "android-extensions-compiler.jar"
+                    },
+                    "android-extensions-ide.jar": {
+                      "children": {
+                        ":plugins:android-extensions-ide": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":plugins:android-extensions-ide"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "android-extensions-ide.jar"
+                    },
+                    "kapt3-idea.jar": {
+                      "children": {
+                        ":plugins:kapt3-idea": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":plugins:kapt3-idea"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kapt3-idea.jar"
+                    },
+                    "kotlin-plugin.jar": {
+                      "children": {
+                        "/Users/jetbrains/tasks/kwjps/wjps/resources/kotlinManifest.properties": {
+                          "children": {},
+                          "type": "FILE",
+                          "name": "/Users/jetbrains/tasks/kwjps/wjps/resources/kotlinManifest.properties"
+                        },
+                        "/Users/jetbrains/repo/protobuf-java-relocated-2.6.1.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/repo/protobuf-java-relocated-2.6.1.jar"
+                        },
+                        ":plugins:annotation-based-compiler-plugins-ide-support": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":plugins:annotation-based-compiler-plugins-ide-support"
+                        },
+                        ":compiler:backend": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:backend"
+                        },
+                        ":compiler:backend-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:backend-common"
+                        },
+                        ":compiler:ir.backend.common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:ir.backend.common"
+                        },
+                        ":kotlin-build-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-build-common"
+                        },
+                        ":compiler:cli-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:cli-common"
+                        },
+                        ":compiler:container": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:container"
+                        },
+                        ":compiler:daemon-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:daemon-common"
+                        },
+                        ":core:metadata": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:metadata"
+                        },
+                        ":core:metadata.jvm": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:metadata.jvm"
+                        },
+                        ":core:descriptors": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:descriptors"
+                        },
+                        ":core:descriptors.jvm": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:descriptors.jvm"
+                        },
+                        ":core:deserialization": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:deserialization"
+                        },
+                        ":eval4j": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":eval4j"
+                        },
+                        ":idea:formatter": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:formatter"
+                        },
+                        ":compiler:psi": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:psi"
+                        },
+                        ":compiler:frontend": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:frontend"
+                        },
+                        ":compiler:frontend.java": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:frontend.java"
+                        },
+                        ":compiler:frontend.script": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:frontend.script"
+                        },
+                        ":idea:ide-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:ide-common"
+                        },
+                        ":idea": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea"
+                        },
+                        ":idea:idea-native": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-native"
+                        },
+                        ":idea:fir-view": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:fir-view"
+                        },
+                        ":idea:idea-core": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-core"
+                        },
+                        ":idea:idea-gradle": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-gradle"
+                        },
+                        ":idea:idea-gradle-native": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":idea:idea-gradle-native"
+                        },
+                        ":compiler:ir.psi2ir": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:ir.psi2ir"
+                        },
+                        ":compiler:ir.tree": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:ir.tree"
+                        },
+                        ":js:js.ast": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":js:js.ast"
+                        },
+                        ":js:js.frontend": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":js:js.frontend"
+                        },
+                        ":js:js.parser": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":js:js.parser"
+                        },
+                        ":js:js.serializer": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":js:js.serializer"
+                        },
+                        ":js:js.translator": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":js:js.translator"
+                        },
+                        ":kotlin-native:kotlin-native-utils": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-native:kotlin-native-utils"
+                        },
+                        ":kotlin-native:kotlin-native-library-reader": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-native:kotlin-native-library-reader"
+                        },
+                        ":compiler:light-classes": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:light-classes"
+                        },
+                        ":compiler:plugin-api": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:plugin-api"
+                        },
+                        ":kotlin-preloader": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-preloader"
+                        },
+                        ":compiler:resolution": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:resolution"
+                        },
+                        ":compiler:serialization": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:serialization"
+                        },
+                        ":compiler:util": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:util"
+                        },
+                        ":core:util.runtime": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:util.runtime"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-plugin.jar"
+                    },
+                    "kotlin-script-runtime.jar": {
+                      "children": {
+                        ":kotlin-script-runtime": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-script-runtime"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-script-runtime.jar"
+                    },
+                    "kotlin-reflect.jar": {
+                      "children": {
+                        ":kotlin-reflect": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-reflect"
+                        },
+                        "/Users/jetbrains/repo/protobuf-2.6.1-lite.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/repo/protobuf-2.6.1-lite.jar"
+                        },
+                        ":kotlin-reflect-api": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-reflect-api"
+                        },
+                        ":core:metadata": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:metadata"
+                        },
+                        ":core:metadata.jvm": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:metadata.jvm"
+                        },
+                        ":core:descriptors": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:descriptors"
+                        },
+                        ":core:descriptors.jvm": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:descriptors.jvm"
+                        },
+                        ":core:deserialization": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:deserialization"
+                        },
+                        ":core:descriptors.runtime": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:descriptors.runtime"
+                        },
+                        ":core:util.runtime": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":core:util.runtime"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-reflect.jar"
+                    },
+                    "kotlin-compiler-client-embeddable.jar": {
+                      "children": {
+                        ":kotlin-compiler-client-embeddable": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-compiler-client-embeddable"
+                        },
+                        ":compiler:cli-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:cli-common"
+                        },
+                        ":compiler:daemon-common": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":compiler:daemon-common"
+                        },
+                        ":kotlin-daemon-client": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":kotlin-daemon-client"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar"
+                        },
+                        "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar": {
+                          "children": {},
+                          "type": "EXTRACTED_DIR",
+                          "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "kotlin-compiler-client-embeddable.jar"
+                    },
+                    "sam-with-receiver-ide-plugin.jar": {
+                      "children": {
+                        ":sam-with-receiver-ide-plugin": {
+                          "children": {},
+                          "type": "MODULE_OUTPUT",
+                          "name": ":sam-with-receiver-ide-plugin"
+                        }
+                      },
+                      "type": "ARCHIVE",
+                      "name": "sam-with-receiver-ide-plugin.jar"
+                    },
+                    "jps": {
+                      "children": {
+                        "kotlin-jps-plugin.jar": {
+                          "children": {
+                            "/Users/jetbrains/tasks/kwjps/wjps/resources/kotlinManifest.properties": {
+                              "children": {},
+                              "type": "FILE",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/resources/kotlinManifest.properties"
+                            },
+                            ":kotlin-build-common": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":kotlin-build-common"
+                            },
+                            ":compiler:cli-common": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:cli-common"
+                            },
+                            ":kotlin-compiler-runner": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":kotlin-compiler-runner"
+                            },
+                            "/Users/jetbrains/repo/protobuf-java-relocated-2.6.1.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/repo/protobuf-java-relocated-2.6.1.jar"
+                            },
+                            ":compiler:util": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:util"
+                            },
+                            ":compiler:container": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:container"
+                            },
+                            ":compiler:resolution": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:resolution"
+                            },
+                            ":compiler:serialization": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:serialization"
+                            },
+                            ":compiler:psi": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:psi"
+                            },
+                            ":compiler:frontend": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:frontend"
+                            },
+                            ":compiler:frontend.java": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:frontend.java"
+                            },
+                            ":compiler:frontend.script": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:frontend.script"
+                            },
+                            ":compiler:daemon-common": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:daemon-common"
+                            },
+                            ":compiler:daemon": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:daemon"
+                            },
+                            ":compiler:ir.tree": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:ir.tree"
+                            },
+                            ":compiler:ir.psi2ir": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:ir.psi2ir"
+                            },
+                            ":compiler:ir.backend.common": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:ir.backend.common"
+                            },
+                            ":compiler:backend.js": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:backend.js"
+                            },
+                            ":compiler:backend-common": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:backend-common"
+                            },
+                            ":compiler:backend": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:backend"
+                            },
+                            ":compiler:plugin-api": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:plugin-api"
+                            },
+                            ":compiler:light-classes": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:light-classes"
+                            },
+                            ":compiler:cli": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:cli"
+                            },
+                            ":compiler:incremental-compilation-impl": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler:incremental-compilation-impl"
+                            },
+                            ":js:js.ast": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":js:js.ast"
+                            },
+                            ":js:js.serializer": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":js:js.serializer"
+                            },
+                            ":js:js.parser": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":js:js.parser"
+                            },
+                            ":js:js.frontend": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":js:js.frontend"
+                            },
+                            ":js:js.translator": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":js:js.translator"
+                            },
+                            ":js:js.dce": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":js:js.dce"
+                            },
+                            ":compiler": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":compiler"
+                            },
+                            ":core:metadata": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":core:metadata"
+                            },
+                            ":core:metadata.jvm": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":core:metadata.jvm"
+                            },
+                            ":core:descriptors": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":core:descriptors"
+                            },
+                            ":core:descriptors.jvm": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":core:descriptors.jvm"
+                            },
+                            ":core:deserialization": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":core:deserialization"
+                            },
+                            ":core:util.runtime": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":core:util.runtime"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jline/jline/3.3.1/d8a30137fe4ee2246b71b3915baac767d348c5bb/jline-3.3.1.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jline/jline/3.3.1/d8a30137fe4ee2246b71b3915baac767d348c5bb/jline-3.3.1.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.fusesource.jansi/jansi/1.16/b1aaf0028852164ab6b4057192ccd0ba7dedd3a5/jansi-1.16.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.fusesource.jansi/jansi/1.16/b1aaf0028852164ab6b4057192ccd0ba7dedd3a5/jansi-1.16.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang/2.0.6/415b0d40db4890849270c2a5cb50050fc6ee7636/javaslang-2.0.6.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang/2.0.6/415b0d40db4890849270c2a5cb50050fc6ee7636/javaslang-2.0.6.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellij-core/intellij-core.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellij-core/intellij-core.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/trove4j.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/trove4j.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/annotations.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/annotations.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/streamex-0.6.5.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/streamex-0.6.5.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/asm-all.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/asm-all.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/guava-23.6-jre.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/guava-23.6-jre.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/picocontainer-1.2.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/picocontainer-1.2.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/lz4-1.3.0.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/lz4-1.3.0.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna-platform.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna-platform.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang-match/2.0.6/d57a666939103b659813de52102d3ff0baa8ad5f/javaslang-match-2.0.6.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang-match/2.0.6/d57a666939103b659813de52102d3ff0baa8ad5f/javaslang-match-2.0.6.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/jps-standalone/jps-model.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/jps-standalone/jps-model.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/oro-2.0.8.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/oro-2.0.8.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jdom.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jdom.jar"
+                            },
+                            "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/log4j.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/log4j.jar"
+                            },
+                            ":idea:idea-jps-common": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":idea:idea-jps-common"
+                            },
+                            ":jps-plugin": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":jps-plugin"
+                            },
+                            ":kotlin-preloader": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":kotlin-preloader"
+                            },
+                            ":plugins:android-extensions-jps": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":plugins:android-extensions-jps"
+                            },
+                            ":kotlin-daemon-client": {
+                              "children": {},
+                              "type": "MODULE_OUTPUT",
+                              "name": ":kotlin-daemon-client"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar"
+                            },
+                            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar": {
+                              "children": {},
+                              "type": "EXTRACTED_DIR",
+                              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar"
+                            }
+                          },
+                          "type": "ARCHIVE",
+                          "name": "kotlin-jps-plugin.jar"
+                        }
+                      },
+                      "type": "DIR",
+                      "name": "jps"
+                    }
+                  },
+                  "type": "DIR",
+                  "name": "lib"
+                }
+              },
+              "type": "DIR",
+              "name": "Kotlin"
+            }
+          },
+          "type": "DIR",
+          "name": "ideaPlugin"
+        }
+      },
+      "type": "DIR",
+      "name": "artifacts"
+    },
+    "kotlinc": {
+      "children": {
+        "bin": {
+          "children": {
+            "/Users/jetbrains/tasks/kwjps/wjps/compiler/cli/bin": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/compiler/cli/bin"
+            }
+          },
+          "type": "DIR",
+          "name": "bin"
+        },
+        "license": {
+          "children": {
+            "/Users/jetbrains/tasks/kwjps/wjps/license": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/license"
+            }
+          },
+          "type": "DIR",
+          "name": "license"
+        },
+        "lib": {
+          "children": {
+            "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar": {
+              "children": {},
+              "type": "FILE",
+              "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+            },
+            "kotlin-allopen-compiler-plugin.jar": {
+              "children": {
+                ":kotlin-allopen-compiler-plugin": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-allopen-compiler-plugin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-allopen-compiler-plugin.jar"
+            },
+            "android-extensions-runtime.jar": {
+              "children": {
+                ":kotlin-android-extensions-runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-android-extensions-runtime"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "android-extensions-runtime.jar"
+            },
+            "kotlin-annotation-processing.jar": {
+              "children": {
+                ":kotlin-annotation-processing": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotation-processing"
+                },
+                ":kotlin-annotation-processing-runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotation-processing-runtime"
+                },
+                ":kotlin-annotation-processing-cli": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotation-processing-cli"
+                },
+                ":kotlin-annotation-processing-base": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotation-processing-base"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-annotation-processing.jar"
+            },
+            "kotlin-annotation-processing-cli.jar": {
+              "children": {
+                ":kotlin-annotation-processing-cli": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotation-processing-cli"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-annotation-processing-cli.jar"
+            },
+            "kotlin-annotation-processing-runtime.jar": {
+              "children": {
+                ":kotlin-annotation-processing-runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotation-processing-runtime"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-annotation-processing-runtime.jar"
+            },
+            "kotlin-annotations-android.jar": {
+              "children": {
+                ":kotlin-annotations-android": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotations-android"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-annotations-android.jar"
+            },
+            "kotlin-annotations-jvm.jar": {
+              "children": {
+                ":kotlin-annotations-jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-annotations-jvm"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-annotations-jvm.jar"
+            },
+            "kotlin-annotations-jvm-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/tools/kotlin-annotations-jvm/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/tools/kotlin-annotations-jvm/src"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-annotations-jvm-sources.jar"
+            },
+            "kotlin-ant.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/ant/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/ant/src"
+                },
+                ":kotlin-ant": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-ant"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-ant.jar"
+            },
+            "kotlin-compiler.jar": {
+              "children": {
+                "/Users/jetbrains/repo/protobuf-java-relocated-2.6.1.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/repo/protobuf-java-relocated-2.6.1.jar"
+                },
+                ":compiler:util": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:util"
+                },
+                ":compiler:container": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:container"
+                },
+                ":compiler:resolution": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:resolution"
+                },
+                ":compiler:serialization": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:serialization"
+                },
+                ":compiler:psi": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:psi"
+                },
+                ":compiler:frontend": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:frontend"
+                },
+                ":compiler:frontend.java": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:frontend.java"
+                },
+                ":compiler:frontend.script": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:frontend.script"
+                },
+                ":compiler:cli-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:cli-common"
+                },
+                ":compiler:daemon-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:daemon-common"
+                },
+                ":compiler:daemon": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:daemon"
+                },
+                ":compiler:ir.tree": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:ir.tree"
+                },
+                ":compiler:ir.psi2ir": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:ir.psi2ir"
+                },
+                ":compiler:ir.backend.common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:ir.backend.common"
+                },
+                ":compiler:backend.js": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:backend.js"
+                },
+                ":compiler:backend-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:backend-common"
+                },
+                ":compiler:backend": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:backend"
+                },
+                ":compiler:plugin-api": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:plugin-api"
+                },
+                ":compiler:light-classes": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:light-classes"
+                },
+                ":compiler:cli": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:cli"
+                },
+                ":compiler:incremental-compilation-impl": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:incremental-compilation-impl"
+                },
+                ":js:js.ast": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":js:js.ast"
+                },
+                ":js:js.serializer": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":js:js.serializer"
+                },
+                ":js:js.parser": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":js:js.parser"
+                },
+                ":js:js.frontend": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":js:js.frontend"
+                },
+                ":js:js.translator": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":js:js.translator"
+                },
+                ":js:js.dce": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":js:js.dce"
+                },
+                ":compiler": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler"
+                },
+                ":kotlin-build-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-build-common"
+                },
+                ":core:metadata": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:metadata"
+                },
+                ":core:metadata.jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:metadata.jvm"
+                },
+                ":core:descriptors": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:descriptors"
+                },
+                ":core:descriptors.jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:descriptors.jvm"
+                },
+                ":core:deserialization": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:deserialization"
+                },
+                ":core:util.runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:util.runtime"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jline/jline/3.3.1/d8a30137fe4ee2246b71b3915baac767d348c5bb/jline-3.3.1.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jline/jline/3.3.1/d8a30137fe4ee2246b71b3915baac767d348c5bb/jline-3.3.1.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.fusesource.jansi/jansi/1.16/b1aaf0028852164ab6b4057192ccd0ba7dedd3a5/jansi-1.16.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.fusesource.jansi/jansi/1.16/b1aaf0028852164ab6b4057192ccd0ba7dedd3a5/jansi-1.16.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang/2.0.6/415b0d40db4890849270c2a5cb50050fc6ee7636/javaslang-2.0.6.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang/2.0.6/415b0d40db4890849270c2a5cb50050fc6ee7636/javaslang-2.0.6.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellij-core/intellij-core.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellij-core/intellij-core.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/trove4j.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/trove4j.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/annotations.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/annotations.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/streamex-0.6.5.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/streamex-0.6.5.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/asm-all.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/asm-all.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/guava-23.6-jre.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/guava-23.6-jre.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/picocontainer-1.2.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/picocontainer-1.2.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/lz4-1.3.0.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/lz4-1.3.0.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna-platform.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jna-platform.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang-match/2.0.6/d57a666939103b659813de52102d3ff0baa8ad5f/javaslang-match-2.0.6.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/io.javaslang/javaslang-match/2.0.6/d57a666939103b659813de52102d3ff0baa8ad5f/javaslang-match-2.0.6.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/jps-standalone/jps-model.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/jps-standalone/jps-model.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/oro-2.0.8.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/oro-2.0.8.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jdom.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/jdom.jar"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/log4j.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/buildSrc/prepare-deps/intellij-sdk/build/repo/kotlin.build.custom.deps/182.5107.16/intellijUltimate/lib/log4j.jar"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-compiler.jar"
+            },
+            "kotlin-daemon-client.jar": {
+              "children": {
+                ":kotlin-daemon-client": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-daemon-client"
+                },
+                ":compiler:daemon-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":compiler:daemon-common"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform/0.14/48341d68b4456bea76ca952b6d38b877881350f7/native-platform-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-amd64/0.14/bdf519fab10700fadc9953526a07e8104fad1d07/native-platform-windows-amd64-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-windows-i386/0.14/65b00e123554f42ecd0da054a747033be5da608d/native-platform-windows-i386-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-amd64/0.14/5e5c113c32c0bac5cf2dcd3a59e4b021023d86a1/native-platform-osx-amd64-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-osx-i386/0.14/fd86b7eedbf5a0df003cf946f0b0c80c06c103ee/native-platform-osx-i386-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64/0.14/d0ac539a32015e91e309c20e493d220aae88811b/native-platform-linux-amd64-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386/0.14/6576c08a9a514a6ae5623e6f8da04502cac23bde/native-platform-linux-i386-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libcpp/0.14/b45561900830d676e9e0040561e68abe86fbc10e/native-platform-freebsd-amd64-libcpp-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-amd64-libstdcpp/0.14/bcc4e58ef4db56052fe9512d2d1265f11dc9242f/native-platform-freebsd-amd64-libstdcpp-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libcpp/0.14/50b15724c82808c2b7fefd9b0b7c6dd977623f35/native-platform-freebsd-i386-libcpp-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-freebsd-i386-libstdcpp/0.14/d98be0a75890523a6a70dc93795101145828a5da/native-platform-freebsd-i386-libstdcpp-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses5/0.14/6dece223855317a75c371fb72d826582893351c6/native-platform-linux-amd64-ncurses5-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-amd64-ncurses6/0.14/8effac668ad781893fc33fd86f993c5de559d355/native-platform-linux-amd64-ncurses6-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses5/0.14/80ec77af683abeaa58ed11b9c2cad2d02837e55f/native-platform-linux-i386-ncurses5-0.14.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/net.rubygrapefruit/native-platform-linux-i386-ncurses6/0.14/615dea7e75ca704bba1de9b671652283a9743894/native-platform-linux-i386-ncurses6-0.14.jar"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-daemon-client.jar"
+            },
+            "kotlin-imports-dumper-compiler-plugin.jar": {
+              "children": {
+                ":kotlin-imports-dumper-compiler-plugin": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-imports-dumper-compiler-plugin"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-runtime/0.4.2/e343c68c9fa77a190225484c1e03b1485fbb5f1f/kotlinx-serialization-runtime-0.4.2.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-runtime/0.4.2/e343c68c9fa77a190225484c1e03b1485fbb5f1f/kotlinx-serialization-runtime-0.4.2.jar"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-imports-dumper-compiler-plugin.jar"
+            },
+            "kotlin-main-kts.jar": {
+              "children": {
+                ":kotlin-main-kts": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-main-kts"
+                },
+                ":kotlin-scripting-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-scripting-common"
+                },
+                ":kotlin-scripting-jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-scripting-jvm"
+                },
+                ":kotlin-script-util": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-script-util"
+                },
+                ":kotlin-script-runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-script-runtime"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.apache.ivy/ivy/2.4.0/5abe4c24bbe992a9ac07ca563d5bd3e8d569e9ed/ivy-2.4.0.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.apache.ivy/ivy/2.4.0/5abe4c24bbe992a9ac07ca563d5bd3e8d569e9ed/ivy-2.4.0.jar"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.0.1/f33e8dab753f33d1bbb07cca664fd6f13d993d7e/kotlinx-coroutines-core-1.0.1.jar"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-main-kts.jar"
+            },
+            "kotlin-noarg-compiler-plugin.jar": {
+              "children": {
+                ":kotlin-noarg-compiler-plugin": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-noarg-compiler-plugin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-noarg-compiler-plugin.jar"
+            },
+            "kotlin-preloader.jar": {
+              "children": {
+                ":kotlin-preloader": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-preloader"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-preloader.jar"
+            },
+            "kotlin-reflect-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/core/descriptors/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/descriptors/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/core/descriptors.jvm/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/descriptors.jvm/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/core/descriptors.runtime/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/descriptors.runtime/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/core/deserialization/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/deserialization/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/core/util.runtime/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/util.runtime/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/core/reflection.jvm/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/reflection.jvm/src"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-reflect-sources.jar"
+            },
+            "kotlin-reflect.jar": {
+              "children": {
+                ":kotlin-reflect": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-reflect"
+                },
+                "/Users/jetbrains/repo/protobuf-2.6.1-lite.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/repo/protobuf-2.6.1-lite.jar"
+                },
+                ":kotlin-reflect-api": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-reflect-api"
+                },
+                ":core:metadata": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:metadata"
+                },
+                ":core:metadata.jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:metadata.jvm"
+                },
+                ":core:descriptors": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:descriptors"
+                },
+                ":core:descriptors.jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:descriptors.jvm"
+                },
+                ":core:deserialization": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:deserialization"
+                },
+                ":core:descriptors.runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:descriptors.runtime"
+                },
+                ":core:util.runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":core:util.runtime"
+                },
+                "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar": {
+                  "children": {},
+                  "type": "EXTRACTED_DIR",
+                  "name": "/Users/jetbrains/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-reflect.jar"
+            },
+            "kotlin-runner.jar": {
+              "children": {
+                ":kotlin-runner": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-runner"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-runner.jar"
+            },
+            "kotlin-sam-with-receiver-compiler-plugin.jar": {
+              "children": {
+                ":kotlin-sam-with-receiver-compiler-plugin": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-sam-with-receiver-compiler-plugin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-sam-with-receiver-compiler-plugin.jar"
+            },
+            "kotlin-script-runtime.jar": {
+              "children": {
+                ":kotlin-script-runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-script-runtime"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-script-runtime.jar"
+            },
+            "kotlin-script-runtime-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/core/script.runtime/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/script.runtime/src"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-script-runtime-sources.jar"
+            },
+            "kotlin-scripting-common.jar": {
+              "children": {
+                ":kotlin-scripting-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-scripting-common"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-scripting-common.jar"
+            },
+            "kotlin-scripting-compiler.jar": {
+              "children": {
+                ":kotlin-scripting-compiler": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-scripting-compiler"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-scripting-compiler.jar"
+            },
+            "kotlin-scripting-jvm.jar": {
+              "children": {
+                ":kotlin-scripting-jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-scripting-jvm"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-scripting-jvm.jar"
+            },
+            "kotlin-source-sections-compiler-plugin.jar": {
+              "children": {
+                ":kotlin-source-sections-compiler-plugin": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-source-sections-compiler-plugin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-source-sections-compiler-plugin.jar"
+            },
+            "kotlin-stdlib.jar": {
+              "children": {
+                ":kotlin-stdlib": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-stdlib"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib.jar"
+            },
+            "kotlin-stdlib-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/runtime": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/runtime"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/native": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/native"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/jvm/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/jvm/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/common/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/common/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/unsigned/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/unsigned/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/src"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-sources.jar"
+            },
+            "kotlin-stdlib-common.jar": {
+              "children": {
+                ":kotlin-stdlib-common": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-stdlib-common"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-common.jar"
+            },
+            "kotlin-stdlib-jdk7.jar": {
+              "children": {
+                ":kotlin-stdlib-jdk7": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-stdlib-jdk7"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-jdk7.jar"
+            },
+            "kotlin-stdlib-jdk7-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jdk7/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jdk7/src"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-jdk7-sources.jar"
+            },
+            "kotlin-stdlib-jdk8.jar": {
+              "children": {
+                ":kotlin-stdlib-jdk8": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-stdlib-jdk8"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-jdk8.jar"
+            },
+            "kotlin-stdlib-jdk8-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jdk8/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jdk8/src"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-jdk8-sources.jar"
+            },
+            "kotlin-stdlib-js.jar": {
+              "children": {
+                ":kotlin-stdlib-js": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-stdlib-js"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-js.jar"
+            },
+            "kotlin-stdlib-js-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/native/kotlin": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/native/kotlin"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/src/kotlin": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/src/kotlin"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/js/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/js/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/js/runtime": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/js/runtime"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/js/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/js/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/common/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/common/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/unsigned/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/unsigned/src"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/src": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/src"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-stdlib-js-sources.jar"
+            },
+            "kotlin-test-js.jar": {
+              "children": {
+                ":kotlin-test:kotlin-test-js": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-test:kotlin-test-js"
+                },
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/js/build/classes/main": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/js/build/classes/main"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-js.jar"
+            },
+            "kotlin-test-js-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/js/src/main/kotlin": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/js/src/main/kotlin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-js-sources.jar"
+            },
+            "kotlin-test-junit.jar": {
+              "children": {
+                ":kotlin-test:kotlin-test-junit": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-test:kotlin-test-junit"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-junit.jar"
+            },
+            "kotlin-test-junit-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/junit/src/main/kotlin": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/junit/src/main/kotlin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-junit-sources.jar"
+            },
+            "kotlin-test-junit5.jar": {
+              "children": {
+                ":kotlin-test:kotlin-test-junit5": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-test:kotlin-test-junit5"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-junit5.jar"
+            },
+            "kotlin-test-junit5-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/junit5/src/main/kotlin": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/junit5/src/main/kotlin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-junit5-sources.jar"
+            },
+            "kotlin-test.jar": {
+              "children": {
+                ":kotlin-test:kotlin-test-jvm": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-test:kotlin-test-jvm"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test.jar"
+            },
+            "kotlin-test-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/jvm/src/main/kotlin": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/jvm/src/main/kotlin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-sources.jar"
+            },
+            "kotlin-test-testng.jar": {
+              "children": {
+                ":kotlin-test:kotlin-test-testng": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-test:kotlin-test-testng"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-testng.jar"
+            },
+            "kotlin-test-testng-sources.jar": {
+              "children": {
+                "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/testng/src/main/kotlin": {
+                  "children": {},
+                  "type": "DIR_CONTENT",
+                  "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/testng/src/main/kotlin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlin-test-testng-sources.jar"
+            },
+            "kotlinx-serialization-compiler-plugin.jar": {
+              "children": {
+                ":kotlinx-serialization-compiler-plugin": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlinx-serialization-compiler-plugin"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "kotlinx-serialization-compiler-plugin.jar"
+            },
+            "mutability-annotations-compat.jar": {
+              "children": {
+                ":libraries:tools:mutability-annotations-compat": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":libraries:tools:mutability-annotations-compat"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "mutability-annotations-compat.jar"
+            },
+            "android-extensions-compiler.jar": {
+              "children": {
+                ":plugins:android-extensions-compiler": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":plugins:android-extensions-compiler"
+                },
+                ":kotlin-android-extensions-runtime": {
+                  "children": {},
+                  "type": "MODULE_OUTPUT",
+                  "name": ":kotlin-android-extensions-runtime"
+                }
+              },
+              "type": "ARCHIVE",
+              "name": "android-extensions-compiler.jar"
+            }
+          },
+          "type": "DIR",
+          "name": "lib"
+        }
+      },
+      "type": "DIR",
+      "name": "kotlinc"
+    },
+    "builtins": {
+      "children": {},
+      "type": "DIR",
+      "name": "builtins"
+    },
+    "maven": {
+      "children": {
+        "kotlin-stdlib-sources.jar": {
+          "children": {
+            "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/src": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/src"
+            },
+            "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/runtime": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/runtime"
+            },
+            "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/src": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/jvm/src"
+            },
+            "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/native": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/core/builtins/native"
+            },
+            "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/jvm/src": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/jvm/src"
+            }
+          },
+          "type": "ARCHIVE",
+          "name": "kotlin-stdlib-sources.jar"
+        }
+      },
+      "type": "DIR",
+      "name": "maven"
+    },
+    "common": {
+      "children": {
+        "kotlin-stdlib-common.jar": {
+          "children": {
+            ":kotlin-stdlib-common": {
+              "children": {},
+              "type": "MODULE_OUTPUT",
+              "name": ":kotlin-stdlib-common"
+            }
+          },
+          "type": "ARCHIVE",
+          "name": "kotlin-stdlib-common.jar"
+        },
+        "kotlin-stdlib-common-sources.jar": {
+          "children": {
+            "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/common/src": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/common/src"
+            },
+            "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/src": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/src"
+            },
+            "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/unsigned/src": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/unsigned/src"
+            },
+            "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/src": {
+              "children": {},
+              "type": "DIR_CONTENT",
+              "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/stdlib/coroutines-experimental/src"
+            }
+          },
+          "type": "ARCHIVE",
+          "name": "kotlin-stdlib-common-sources.jar"
+        }
+      },
+      "type": "DIR",
+      "name": "common"
+    },
+    "js": {
+      "children": {
+        "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/js/build/classes/main/kotlin-test.js": {
+          "children": {},
+          "type": "FILE",
+          "name": "/Users/jetbrains/tasks/kwjps/wjps/libraries/kotlin.test/js/build/classes/main/kotlin-test.js"
+        }
+      },
+      "type": "DIR",
+      "name": "js"
+    }
+  },
+  "type": "DIR",
+  "name": "dist"
+}
